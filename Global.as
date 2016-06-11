@@ -1,0 +1,1 @@
+﻿package {	public class Global	{		public static var vars:Object = {};		public function Global()		{			// constructor code		}	}}

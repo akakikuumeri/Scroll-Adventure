@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;	import Global;			public class obstacle extends greenbox {						public function obstacle() {			// constructor code		}	}	}

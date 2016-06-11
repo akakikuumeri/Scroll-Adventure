@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class block extends Leveldecoration{						public function block() {			// constructor code		}	}	}
